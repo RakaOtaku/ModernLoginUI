@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67170666079",
+    "project_id": "flutterlogin-2c3cd",
+    "storage_bucket": "flutterlogin-2c3cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67170666079:android:bb2f3860d360c850e4fdea",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67170666079-1mpkm5opjqgjqmdj346n97hnpoh6i8ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwlIfkUzaipEsgtKH7yLcyk9qmpZyeSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67170666079-1mpkm5opjqgjqmdj346n97hnpoh6i8ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
